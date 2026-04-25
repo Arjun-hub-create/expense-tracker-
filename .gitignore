@@ -1,0 +1,21 @@
+# Backend
+backend/node_modules/
+backend/.env
+backend/logs/
+
+# Frontend
+frontend/node_modules/
+frontend/.env
+frontend/ios/build/
+frontend/android/build/
+frontend/android/app/build/
+frontend/ios/Pods/
+frontend/.gradle/
+*.keystore
+!debug.keystore
+
+# General
+.DS_Store
+*.log
+.idea/
+.vscode/
